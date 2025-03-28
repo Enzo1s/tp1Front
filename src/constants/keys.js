@@ -1,0 +1,1 @@
+export const API_KEY_GOOGLE_MAP = import.meta.env.VITE_API_KEY_GOOGLE_MAP
