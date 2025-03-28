@@ -1,3 +1,6 @@
+# TP1 front end
+# Desarrollado por Enzo Martin
+Para visualizar correctamente el mapa se deben agregar las credenciales de google map en el archivo .env
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
